@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@500&family=Honk&family=Inter:wght@600&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Lora:ital@1&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Playfair+Display:ital@1&family=Quicksand&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+body {
+    font-family: "Montserrat", sans-serif;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(Img/bread-1284438_1280.jpg);
+}
+
+header {
+    padding: 10px;
+    text-align: right;
+}
+
+header li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+header a {
+    font-size: 19px;
+    color: #fff;
+}
+
+header a:hover {
+    color: springgreen;
+}
+
+h2 {
+    color: #fff;
+    margin-top: 30px;
+}
+
+.P_1 {
+    border-radius: 15px;
+    margin-left: 200px;
+    margin-top: 100px;
+}
+
+.P_2 {
+    border-radius: 15px;
+    margin-left: 550px;
+    margin-top: -300px;
+}
+
+.P_3 {
+    border-radius: 15px;
+    margin-left: 900px;
+    margin-top: -300px;
+}
+
+.P_4 {
+    border-radius: 15px;
+    margin-left: 200px;
+    margin-top: 50px;
+}
+
+.P_5 {
+    border-radius: 15px;
+    margin-left: 550px;
+    margin-top: -300px;
+}
+
+.P_6 {
+    border-radius: 15px;
+    margin-left: 900px;
+    margin-top: -305px;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+    border-radius: 15px;
+}
